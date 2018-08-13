@@ -1,0 +1,11 @@
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\bin\Debug\MineTex.exe.config
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\bin\Debug\MineTex.exe
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\bin\Debug\MineTex.pdb
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\bin\Debug\MineTex.xml
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\obj\Debug\MineTex.Form1.resources
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\obj\Debug\MineTex.Resources.resources
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\obj\Debug\MineTex.vbproj.GenerateResource.cache
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\obj\Debug\MineTex.vbproj.CoreCompileInputs.cache
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\obj\Debug\MineTex.exe
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\obj\Debug\MineTex.xml
+C:\Users\Eclectictree209\source\repos\MineTex\MineTex\obj\Debug\MineTex.pdb
